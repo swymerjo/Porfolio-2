@@ -9,8 +9,13 @@ body {
   margin-left: 96pt;
   height: 433pt;
 }
+#subheadings {
+  font-size: 14pt;
+}
+
 #link-about {
   color: gold;
+  padding: 4px;
 }
 
 #link-about:hover {
@@ -18,6 +23,7 @@ body {
 }
 #link-projects {
   color: black;
+  padding: 4px;
 }
 
 #link-projects:hover {
@@ -25,6 +31,7 @@ body {
 }
 #link-contact {
   color: sienna;
+  padding: 4px;
 }
 #link-contact:hover {
   text-decoration: underline;
@@ -49,9 +56,18 @@ body {
   display: inline;
 }
 
-.subheading {
-  font-size: 14pt;
+.subheading-1 {
+  display: inline;
 }
+
+.subheading-2 {
+  color: sienna;
+  display: inline;
+}
+.subheading-3 {
+  display: inline;
+}
+
 .links a {
   text-decoration: none;
   font-size: 20pt;
