@@ -1,5 +1,6 @@
 body {
   font-family: "Azeret Mono", monospace;
+  background-color: whitesmoke;
 }
 
 #profile-pic {
@@ -8,9 +9,6 @@ body {
   padding: 0 auto;
   margin-left: 96pt;
   height: 433pt;
-}
-#subheadings {
-  font-size: 14pt;
 }
 
 #link-about {
@@ -58,14 +56,17 @@ body {
 
 .subheading-1 {
   display: inline;
+  font-size: 14pt;
 }
 
 .subheading-2 {
   color: sienna;
   display: inline;
+  font-size: 14pt;
 }
 .subheading-3 {
   display: inline;
+  font-size: 14pt;
 }
 
 .links a {
