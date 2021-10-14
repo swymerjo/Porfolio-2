@@ -28,3 +28,7 @@ body {
   color: gold;
   display: inline;
 }
+
+.subheading {
+  font-size: 14pt;
+}
