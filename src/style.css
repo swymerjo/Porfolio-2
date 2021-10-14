@@ -9,6 +9,26 @@ body {
   margin-left: 96pt;
   height: 433pt;
 }
+#link-about {
+  color: gold;
+}
+
+#link-about:hover {
+  text-decoration: underline;
+}
+#link-projects {
+  color: black;
+}
+
+#link-projects:hover {
+  text-decoration: underline;
+}
+#link-contact {
+  color: sienna;
+}
+#link-contact:hover {
+  text-decoration: underline;
+}
 
 .container {
   max-width: 100%;
@@ -31,4 +51,9 @@ body {
 
 .subheading {
   font-size: 14pt;
+}
+.links a {
+  text-decoration: none;
+  font-size: 20pt;
+  font-weight: bold;
 }
