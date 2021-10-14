@@ -1,0 +1,30 @@
+body {
+  font-family: "Azeret Mono", monospace;
+}
+
+#profile-pic {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  padding: 0 auto;
+  margin-left: 96pt;
+  height: 433pt;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.title-1 {
+  color: black;
+  display: block;
+}
+
+.title-2 {
+  color: black;
+  display: inline;
+}
+
+.title-3 {
+  color: gold;
+  display: inline;
+}
